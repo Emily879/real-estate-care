@@ -21,6 +21,8 @@ Installeer de vereiste packages met npm install
 
 Start de development server met npm run dev 
 
+Live link: https://real-estate-care-prog.netlify.app
+
 Inloggegevens 
 
 Gebruikersnaam: testuser 
