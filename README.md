@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Dit project is een Vue.js applicatie ontworpen voor het beheren van inspecties, gebruikersinstellingen en authenticatie. De applicatie gebruikt Vuetify voor de gebruikersinterface, Pinia voor statusbeheer en Vue Router voor navigatie. Hieronder beschrijf ik het installatieproces, de functies van de applicatie en verbeterpunten. 
 
 Kenmerken 
@@ -135,3 +136,6 @@ De applicatie maakt momenteel geen gebruik van server-side validatie. Voor een h
  
 
  
+=======
+# real-estate-care
+>>>>>>> 9a5affe152e634b2cad661614dac0f987555dad0
